@@ -1,2 +1,18 @@
 //Presets used for TrimLights
 
+//DEMO
+{"bri":128,"seg":{"col":[[255,208,0],[255,104,23],[4,177,0]],"fx":81,"sx":137,"ix":198,"pal":0}}
+
+bri = brightness - default 128 (Half)
+seg = Segment - default 0 for All
+col = colors
+fx = Effect ID
+sx = Speed
+ix = Intensity
+pal = Color Palette
+
+----------------------------------------
+
+//EXAMPLE
+{"bri":128,"seg":{"col":[[255,208,0],[255,104,23],[4,177,0]],"fx":81,"sx":137,"ix":198,"pal":0}}
+
